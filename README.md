@@ -10,6 +10,16 @@ A modern, containerized React application showcasing David Vizena, built with Do
 - **Load Balancer**: High availability with external access
 - **Portfolio Ready**: Professional presentation for potential employers
 
+## 🌐 Live Demo
+
+**Live Application**: [View on Vercel](https://your-vercel-url.vercel.app) (coming soon)
+
+**Full Stack Demo**: 
+- **Frontend**: React + Tailwind CSS
+- **Containerization**: Docker multi-stage build
+- **Orchestration**: Kubernetes with LoadBalancer service
+- **Networking**: Network policies and health checks
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Tailwind CSS
@@ -124,6 +134,34 @@ A modern, containerized React application showcasing David Vizena, built with Do
 - **Memory**: 64Mi request, 128Mi limit
 - **Replicas**: 2 (for high availability)
 
+
+## 🚀 Portfolio Series Overview
+
+This is **Project 1** of a 4-project portfolio series demonstrating full-stack DevOps skills:
+
+### **Project 1: Foundation** (Current)
+- ✅ React Frontend + Tailwind CSS
+- ✅ Docker Containerization
+- ✅ Kubernetes Orchestration
+- ✅ Network Policies & Security
+
+### **Project 2: Monitoring & Observability** (Coming Soon)
+- 🔄 Grafana Dashboards
+- 🔄 Prometheus Metrics
+- 🔄 Alerting & Incident Response
+- 🔄 Log Aggregation
+
+### **Project 3: CI/CD & GitOps** (Coming Soon)
+- 🔄 GitHub Actions
+- 🔄 ArgoCD Deployment
+- 🔄 GoCD Pipelines
+- 🔄 Automated Testing
+
+### **Project 4: Security & Secrets Management** (Coming Soon)
+- 🔄 HashiCorp Vault
+- 🔄 RBAC & Access Control
+- 🔄 Encryption & Data Protection
+- 🔄 Security Scanning
 
 ## 📝 License
 
